@@ -1,0 +1,33 @@
+/*
+Theme Name: Music Scholl
+Theme URI: http://wordpress.org/themes/musicscholl
+Author: Sindy Antunes Aguirre
+Author URI: https://www.linkedin.com/in/sindy-aguirre-ba529753/
+Description: Tema para escola de música
+Version: 1.0 alpha
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags:  music, scholl
+Text Domain: musicscholl
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+.aulas-listagem-item h2{
+    font-size: 2em;
+    font-weight: bold;
+    margin: 1em 0;
+    color: #333;
+}
+.aulas-listagem-item p{
+    font-size: .9em;
+    line-height: 1.5;
+
+}
+.busca-localicacao-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1em 0;
+    flex-basis: 100%;
+}
